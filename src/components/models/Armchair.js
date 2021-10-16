@@ -10,8 +10,8 @@ import { HexColorPicker } from 'react-colorful'
 const state = proxy({
     current: null,
     items: {
-        pillow: '#ffffff',
-        chair: '#ffffff',
+        pillow: '#37372f',
+        chair: '#2f1f33',
     },
 })
 
