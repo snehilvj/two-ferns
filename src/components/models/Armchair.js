@@ -42,7 +42,11 @@ export default function Armchair(props) {
             dispose={null}
             onPointerDown={(e) => {
                 e.stopPropagation()
-                state.current = e.object.material.name
+                if (e.object.material.name.startsWith('fabric')) {
+                    state.current = null
+                } else {
+                    state.current = e.object.material.name
+                }
             }}
             onPointerMissed={() => (state.current = null)}
         >
