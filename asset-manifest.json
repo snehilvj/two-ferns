@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/two-ferns/static/css/main.f23fb148.chunk.css",
-    "main.js": "/two-ferns/static/js/main.044a15e0.chunk.js",
-    "main.js.map": "/two-ferns/static/js/main.044a15e0.chunk.js.map",
+    "main.js": "/two-ferns/static/js/main.6f193880.chunk.js",
+    "main.js.map": "/two-ferns/static/js/main.6f193880.chunk.js.map",
     "runtime-main.js": "/two-ferns/static/js/runtime-main.040b8a64.js",
     "runtime-main.js.map": "/two-ferns/static/js/runtime-main.040b8a64.js.map",
     "static/js/2.7fe1b698.chunk.js": "/two-ferns/static/js/2.7fe1b698.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.040b8a64.js",
     "static/js/2.7fe1b698.chunk.js",
     "static/css/main.f23fb148.chunk.css",
-    "static/js/main.044a15e0.chunk.js"
+    "static/js/main.6f193880.chunk.js"
   ]
 }
