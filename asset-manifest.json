@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/two-ferns/static/css/main.f23fb148.chunk.css",
+    "main.js": "/two-ferns/static/js/main.6c3240ab.chunk.js",
+    "main.js.map": "/two-ferns/static/js/main.6c3240ab.chunk.js.map",
+    "runtime-main.js": "/two-ferns/static/js/runtime-main.040b8a64.js",
+    "runtime-main.js.map": "/two-ferns/static/js/runtime-main.040b8a64.js.map",
+    "static/js/2.7fe1b698.chunk.js": "/two-ferns/static/js/2.7fe1b698.chunk.js",
+    "static/js/2.7fe1b698.chunk.js.map": "/two-ferns/static/js/2.7fe1b698.chunk.js.map",
+    "index.html": "/two-ferns/index.html",
+    "static/css/main.f23fb148.chunk.css.map": "/two-ferns/static/css/main.f23fb148.chunk.css.map",
+    "static/js/2.7fe1b698.chunk.js.LICENSE.txt": "/two-ferns/static/js/2.7fe1b698.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.040b8a64.js",
+    "static/js/2.7fe1b698.chunk.js",
+    "static/css/main.f23fb148.chunk.css",
+    "static/js/main.6c3240ab.chunk.js"
+  ]
+}
